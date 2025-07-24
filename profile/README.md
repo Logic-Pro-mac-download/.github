@@ -84,3 +84,4 @@ price logic pro x, logic for mac, logic pro x mac download, logic pro download f
 macbook with logic pro x, macbook pro with logic pro x, logic pro app, logic pro 10.6 download,  
 logic pro 10.8, logic macbook, macbook pro logic pro, logic pro x for sale,  
 logic mac download, logic software mac, logic pro mac download
+
